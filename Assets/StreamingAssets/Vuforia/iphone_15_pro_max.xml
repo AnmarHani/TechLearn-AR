@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="iphone_15_pro_max" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="iphone_15_pro_maxs_assembly" assemblyId="6c7ed50c96f347699951c163e2174dd7">
+<Part name="iphone_15_pro_max" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0948471 0.565142 6.63595" rotation="AD: 1 0 0 180" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

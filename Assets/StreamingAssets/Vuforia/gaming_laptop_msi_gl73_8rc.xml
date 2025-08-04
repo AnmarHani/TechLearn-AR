@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="gaming_laptop_msi_gl73_8rc" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="gaming_laptop_msi_gl73_8rcs_assembly" assemblyId="4c275fe9293541b295a0b66042c4e336">
+<Part name="gaming_laptop_msi_gl73_8rc" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0311741 0.160617 0.860206" rotation="AD: 1 0.00065545 -0.00451798 196.509" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

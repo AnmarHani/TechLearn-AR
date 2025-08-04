@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.3.4">
+<ModelTarget name="ps5_controller" targetId="b375c21a6298455bab27f33e96cda925" version="14.0" toolVersion="11.3.4" bbox="-2.63519 -1.7136 -1.08181 2.63516 1.71379 1.07993" upVector="0 1 0" previewImage="b375c21a6298455bab27f33e96cda925_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="ps5_controllers_assembly" assemblyId="a20ed55158354b44b85ef75fb2eef083">
+<Part name="ps5_controller" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.66373 0.513589 8.97633" rotation="AD: 0.99999 0.0187464 -0.251968 188.252" image="ps5_controller_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

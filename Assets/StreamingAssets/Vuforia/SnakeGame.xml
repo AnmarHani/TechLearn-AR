@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="the-background-4706293_1920" size="1.000000 0.672396" />
+    <ImageTarget name="snake2" size="1.000000 0.855967" />
+    <ImageTarget name="snake1" size="1.000000 0.882845" />
+  </Tracking>
+</QCARConfig>

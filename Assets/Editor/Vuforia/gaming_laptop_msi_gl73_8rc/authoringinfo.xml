@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.3.4">
+<ModelTarget name="gaming_laptop_msi_gl73_8rc" targetId="b5fe92cbcd6043a9b7796441a97047ad" version="14.0" toolVersion="11.3.4" bbox="-0.248333 -0.000778751 -0.337945 0.248333 0.3509 0.138445" upVector="0 1 0" previewImage="b5fe92cbcd6043a9b7796441a97047ad_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="gaming_laptop_msi_gl73_8rcs_assembly" assemblyId="4c275fe9293541b295a0b66042c4e336">
+<Part name="gaming_laptop_msi_gl73_8rc" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0311741 0.160617 0.860206" rotation="AD: 1 0.00065545 -0.00451798 196.509" image="gaming_laptop_msi_gl73_8rc_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

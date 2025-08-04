@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ps5_controller" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="ps5_controllers_assembly" assemblyId="a20ed55158354b44b85ef75fb2eef083">
+<Part name="ps5_controller" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.66373 0.513589 8.97633" rotation="AD: 0.99999 0.0187464 -0.251968 188.252" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
