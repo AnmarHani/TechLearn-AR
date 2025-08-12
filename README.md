@@ -85,6 +85,7 @@ You must add your Vuforia License Key:
 
 ### Android
 There is already a built apk for android devices in the releases.
+[Android Demo APK](https://github.com/AnmarHani/TechLearn-AR/releases/tag/v1-mobile)
 
 ## Usage
 - Launch the app and grant camera permissions.
